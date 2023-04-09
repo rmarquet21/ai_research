@@ -10,6 +10,8 @@
   - [🕹️ Reinforcement Learning Projects](#️-reinforcement-learning-projects)
     - [🚕 Taxi Deep Q Learning](#-taxi-deep-q-learning)
     - [🚕 Taxi Q Learning](#-taxi-q-learning)
+  - [📝 Natural Language Processing Projects](#-natural-language-processing-projects)
+    - [🚝 Train Ticket Booking](#-train-ticket-booking)
   - [Conclusion](#conclusion)
 
 ## Introduction
@@ -41,6 +43,15 @@ In this project, I developed a program that uses Q-learning to train a computer 
 
 - [📚 Notebook](reinforcement_learning/taxi/q_learning.ipynb)
 - [🕹️ Game](https://gymnasium.farama.org/environments/toy_text/taxi/)
+
+## 📝 Natural Language Processing Projects
+<!-- project "I want to go to Lyon from Paris tomorrow" find destination, from, date -->
+### 🚝 Train Ticket Booking
+This project explores the use of natural language processing to build a chatbot that can book train tickets. The chatbot is able to understand the user's intent and extract the relevant information from the user's input, and then use this information to book a train ticket.
+
+- [📚 Notebook](natural_language_processing/token_classification/bert_travel_order_1_0_0.ipynb)
+- [📁 Dataset](natural_language_processing/token_classification/dataframe.csv)
+
 
 ## Conclusion
 Overall, this repository showcases a range of AI projects that demonstrate my skills and experience in computer vision and reinforcement learning. Each project is accompanied by detailed documentation and code, making it easy to replicate and build upon my work.
