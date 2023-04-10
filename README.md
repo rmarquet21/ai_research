@@ -4,6 +4,7 @@
 - [💻 AI Projects Repository](#-ai-projects-repository)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
+  - [🛠️ Tools and Technologies](#️-tools-and-technologies)
   - [🧠 Computer Vision Projects](#-computer-vision-projects)
     - [🩺 Alzheimer's Prediction](#-alzheimers-prediction)
     - [🩺 Pneumonia Prediction](#-pneumonia-prediction)
@@ -17,6 +18,17 @@
 ## Introduction
 
 This repository contains a collection of artificial intelligence projects that I have completed during my studies and research. The projects cover a variety of topics and techniques in the field of AI, including computer vision and reinforcement learning.
+
+## 🛠️ Tools and Technologies
+
+The following tools and technologies were used to develop the projects in this repository:
+
+- [Python](https://www.python.org/)
+- [Jupyter Notebook](https://jupyter.org/)
+- [Paperspace](https://www.paperspace.com/) (for cloud computing) (GET $10 FREE CREDIT: https://console.paperspace.com/signup?R=PWSZ8AL)
+- [Kaggle](https://www.kaggle.com/)
+- [Hugging Face](https://huggingface.co/)
+- [PyTorch](https://pytorch.org/)
 
 ## 🧠 Computer Vision Projects
 ### 🩺 Alzheimer's Prediction
