@@ -13,6 +13,7 @@
   - [🚕 Taxi Q Learning](#-taxi-q-learning)
 - [📝 Natural Language Processing Projects](#-natural-language-processing-projects)
   - [🚝 Train Ticket Booking](#-train-ticket-booking)
+  - [😱 Disaster Tweet Classification](#-disaster-tweet-classification)
 - [License](#license)
 - [Contact](#contact)
 - [Conclusion](#conclusion)
@@ -27,7 +28,7 @@ The following tools and technologies were used to develop the projects in this r
 
 - [Python](https://www.python.org/)
 - [Jupyter Notebook](https://jupyter.org/)
-- [Paperspace](https://www.paperspace.com/) (for cloud computing) (GET $10 FREE CREDIT: https://console.paperspace.com/signup?R=PWSZ8AL)
+- [Paperspace](https://www.paperspace.com/) (GET $10 FREE CREDIT: https://console.paperspace.com/signup?R=PWSZ8AL)
 - [Kaggle](https://www.kaggle.com/)
 - [Hugging Face](https://huggingface.co/)
 - [PyTorch](https://pytorch.org/)
@@ -65,6 +66,12 @@ This project explores the use of natural language processing to build a chatbot 
 - [📚 Notebook](natural_language_processing/token_classification/bert_travel_order_1_0_0.ipynb)
 - [📁 Dataset](natural_language_processing/token_classification/dataframe.csv)
 
+## 😱 Disaster Tweet Classification
+
+This project explores the use of natural language processing to build a machine learning model that can classify tweets as either real or fake. The model was trained on a dataset downloaded in a kaggle competion [here](https://www.kaggle.com/competitions/nlp-getting-started/overview). The model score is as follows: `0.81765`.
+
+- [📚 Notebook](natural_language_processing/sentence_classification/disaster_tweets/bert_cased/predict_disaster_tweets.ipynb)
+- [📁 Dataset](natural_language_processing/sentence_classification/disaster_tweets/data)
 
 # License
 Distributed under the MIT License. See `LICENSE.txt` for more information.
