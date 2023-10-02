@@ -37,7 +37,8 @@ The following tools and technologies were used to develop the projects in this r
 ## 🩺 Alzheimer's Prediction
 This project focuses on using machine learning algorithms to predict the likelihood of Alzheimer's disease in patients based on medical images of their brain. The model was trained on a dataset of brain images from both healthy individuals and patients with Alzheimer's disease, and achieved a high level of accuracy in predicting the disease.
 
-- [📚 Notebook](computer_vision/alzheimer/alzheimer_1_0_0.ipynb)
+- [📚 Notebook V1](computer_vision/alzheimer/alzheimer_1_0_0.ipynb)
+- [📚 Notebook V2](computer_vision/alzheimer/alzheimer_2_0_0.ipynb)
 - [📁 Dataset](https://www.kaggle.com/datasets/tourist55/alzheimers-dataset-4-class-of-images)
 
 ## 🩺 Pneumonia Prediction
